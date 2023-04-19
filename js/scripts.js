@@ -1,0 +1,1 @@
+const minutesE1 = document.querySelector("minutes")
